@@ -1,0 +1,35 @@
+
+{
+  "name": "Ananya Rao",
+  "email": "ananya@example.com",
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Example University",
+      "graduation_year": 2027,
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Built Python projects",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Data Structures and Algorithms",
+      "category_code": "DSA",
+      "evidence": "Practiced coding problems",
+      "confidence": "medium"
+    }
+  ],
+  "hackathons": [],
+  "internships": [],
+  "certifications": [],
+  "preferred_roles": [
+    "Software Engineer",
+    "AI Engineer"
+  ],
+  "cv_file": null
+}
